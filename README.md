@@ -1,0 +1,2 @@
+# Pure-CSS-Accordion
+CSS + HTML ONLY ACCORDION ELEMENT
